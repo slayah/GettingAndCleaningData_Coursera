@@ -1,7 +1,7 @@
 # Data Dictionary: tidy_data.txt
 by Smriti Gambhir
 
-# activity_id & activity_name
+## activity_id & activity_name
 The value and the name of the activity performed while carrying out the measurements associated with a given subject. These were extracted from the file activities.txt. Activity_id to activity_label mapping:
 - 1-WALKING
 - 2-WALKING_UPSTAIRS
@@ -10,10 +10,10 @@ The value and the name of the activity performed while carrying out the measurem
 - 5-STANDING
 - 6-LAYING 
 
-# subject_id
+## subject_id
 IDs of the subjects for whom the measurements were carried out.
 
-# features
+## Features
 - "tBodyAcc-mean()-X"
 - "tBodyAcc-mean()-Y"
 - "tBodyAcc-mean()-Z"
